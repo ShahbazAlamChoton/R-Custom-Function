@@ -5,5 +5,5 @@ and transfer it to desired file type.
 # Step:
 1. Put your raw data (any type) in the *rawData* folder.
 2. Run the Code.
-3. Transfered data file will be found ata *dumpData*  folder with the same previous data name.
+3. Transfered data file will be found at the *dumpData*  folder with the same previous data name.
 
